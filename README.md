@@ -9,7 +9,7 @@ The JSON data is generated using [this tool](https://samlord.co.uk/tools/ttt).
 
 ### Progress
 
-2023 - 7/~25+
+2023 - 9/~25+
 2022 - 0/99
 2021 - 0/132
 2020 - 0/120
