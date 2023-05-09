@@ -5,16 +5,49 @@ Data created from Yogscast TTT Rounds
 
 `data/<year>/<videoID>.json`
 
-The JSON data is generated using [this tool](https://samlord.co.uk/tools/ttt).
+## Progress
+
+The goal is to have data on every TTT video from 3rd Oct 2017, which is when the [name list](https://yogs-ttt.fandom.com/wiki/Name_List) was first introduced. This makes definitively working out who is which roles and when offscreen deaths occur much easier.
+
+The following totals are estimates based off the [wiki](https://yogs-ttt.fandom.com/wiki) masterlist pages for each year (see 'Useful Links' below).
+
+Year        |   Total Videos    |  Data Collected
+-------     |   ------------    |   -------------
+2023        |       34          |       9
+2022        |       98          |       0
+2021        |       134         |       0
+2020        |       141         |       0
+2019        |       198         |       0
+2018        |       164         |       0
+2017 (Oct+) |       34          |       4
+Total       |       803         |       13 (~1.6%)
+
+Depending on the number of rounds in, and the length of, a video cataloguing all events takes roughly 45-60 minutes. So to fully catalogue all required videos is ~33 days of work without breaks.
 
 ## Data
 
-The data is stored in JSON format for each of interoperability across any clients that may ingest the data. The following data is included:
+The data is stored in JSON format for ease of interoperability across any clients that may ingest the data.
 
-By round:
-- Round begins timestamp (in seconds since the start of the video)
-- The following timestamped events: Deaths, ressurections (+ hypnotisms, zombifications), suicides, role changes, game crashes, soul mates and admin power use.
-- Who won the round.
+The JSON data can be created, edited and viewed using [this tool](https://samlord.co.uk/tools/ttt). Simply copy some JSON into the text box on that page and click the 'Import' button.
+
+Data in each file:
+- Video info:
+    - Players in the video
+    - Video title
+    - Youtube video ID 
+- Round info:
+    - Start Timestamp (in seconds since the start of the video)
+    - Initial roles of all players
+        - Other than the usual roles, this can be `unknown` if it's impossible to tell, or `spectator` if the player never spawned in the round
+    - The following timestamped events:
+        - Deaths
+        - Ressurections (+ hypnotisms, zombifications)
+        - Suicides
+        - Role changes
+        - Game crashes
+        - Soulmates
+        - Admin-power use
+    - Who won the round
 
 ### Suicide vs Death vs Kill
 
@@ -41,21 +74,12 @@ These are recorded as several events with the same timestamp.
 - A role change to swapper
 - B role change to A's previous role
 
-## Progress
+### Possible extensions
 
-The goal is to have data on every TTT video from 3rd Oct 2017, which is when the [name list](https://yogs-ttt.fandom.com/wiki/Name_List) was first introduced. This makes definitively working out who is which roles and when offscreen deaths occur much easier.
+The following data points are currently untracked but could be useful to add in the future.
 
-The following totals are estimates based off the [wiki](https://yogs-ttt.fandom.com/wiki) masterlist pages for each year (see 'Useful Links' below).
-
-Year        |   Total Videos    |  Data Collected
--------     |   ------------    |   -------------
-2023        |       34          |       9
-2022        |       98          |       0
-2021        |       134         |       0
-2020        |       141         |       0
-2019        |       198         |       0
-2018        |       164         |       0
-2017 (Oct+) |       34          |       4
+- Cause of death
+- Active randomats
 
 ## Useful Links
 
