@@ -13,3 +13,9 @@ assignees: ''
 
 - [ ] aaabbbcc
 - [ ] dddeeefff
+
+
+## Check
+
+- [ ] All videos catalogued and added to correct year folder
+- [ ] Readme data table updated
