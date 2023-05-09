@@ -1,1 +1,672 @@
-{"videoTitle":"Curse of the FOREVER SWAPPER! | Gmod TTT","players":[{"name":"Lewis"},{"name":"Ben"},{"name":"Duncan"},{"name":"Ravs"},{"name":"Rythian"},{"name":"Zylus"},{"name":"Kirsty"}],"rounds":[{"actions":[{"playerA":"Rythian","action":"killed","playerB":"Lewis","timestamp":103.544688},{"playerA":"Ravs","action":"died","playerB":null,"timestamp":139.839041},{"playerA":"Duncan","action":"killed","playerB":"Kirsty","timestamp":152.216145},{"playerA":"Duncan","action":"died","playerB":null,"timestamp":170.43847691607667},{"playerA":"Lewis","action":"used admin buff on","playerB":"Ben","timestamp":197.63383202479554},{"playerA":"Rythian","action":"killed","playerB":"Zylus","timestamp":216.993562},{"playerA":"Rythian","action":"died","playerB":null,"timestamp":216.993562},{"playerA":"Zylus","action":"respawned","playerB":null,"timestamp":216.993562},{"playerA":"Rythian","action":"respawned","playerB":null,"timestamp":216.993562},{"playerA":"Zylus","action":"died","playerB":null,"timestamp":229.668874}],"roleChanges":[{"player":"Rythian","role":"swapper","timestamp":216.993562},{"player":"Zylus","role":"traitor","timestamp":216.993562}],"initialRoles":[{"player":"Lewis","role":"randoman"},{"player":"Ben","role":"innocent"},{"player":"Duncan","role":"impersonator"},{"player":"Ravs","role":"turncoat"},{"player":"Rythian","role":"traitor"},{"player":"Zylus","role":"swapper"},{"player":"Kirsty","role":"innocent"}],"winners":["innocent"],"startTimestamp":28.600419},{"actions":[{"playerA":"Lewis","action":"suicided","playerB":null,"timestamp":310.401722},{"playerA":"Zylus","action":"killed","playerB":"Ravs","timestamp":368.960541},{"playerA":"Rythian","action":"killed","playerB":"Kirsty","timestamp":374.475457},{"playerA":"Ben","action":"killed","playerB":"Rythian","timestamp":375.973287},{"playerA":"Zylus","action":"killed","playerB":"Ravs","timestamp":390.647103},{"playerA":"Zylus","action":"killed","playerB":"Ravs","timestamp":408.366832},{"playerA":"Zylus","action":"killed","playerB":"Ravs","timestamp":411.615872},{"playerA":"Zylus","action":"killed","playerB":"Ravs","timestamp":415.005601},{"playerA":"Rythian","action":"respawned","playerB":null,"timestamp":417.642684},{"playerA":"Rythian","action":"killed","playerB":"Ben","timestamp":417.642684},{"playerA":"Duncan","action":"killed","playerB":"Zylus","timestamp":421.496038}],"roleChanges":[{"player":"Zylus","role":"swapper","timestamp":368.960541},{"player":"Ravs","role":"innocent","timestamp":368.960541},{"player":"Ravs","role":"swapper","timestamp":368.9606},{"player":"Zylus","role":"innocent","timestamp":368.9606},{"player":"Zylus","role":"swapper","timestamp":390.647103},{"player":"Zylus","role":"innocent","timestamp":390.6472},{"player":"Ravs","role":"innocent","timestamp":390.647103},{"player":"Ravs","role":"swapper","timestamp":390.6472},{"player":"Zylus","role":"swapper","timestamp":408.366832},{"player":"Ravs","role":"innocent","timestamp":408.366832},{"player":"Zylus","role":"innocent","timestamp":408.8128},{"player":"Ravs","role":"swapper","timestamp":408.8128},{"player":"Zylus","role":"swapper","timestamp":411.615872},{"player":"Ravs","role":"innocent","timestamp":411.615872},{"player":"Zylus","role":"innocent","timestamp":411.6159},{"player":"Ravs","role":"swapper","timestamp":411.6159},{"player":"Ravs","role":"innocent","timestamp":415.005601},{"player":"Zylus","role":"swapper","timestamp":415.005601},{"player":"Ravs","role":"swapper","timestamp":415.0057},{"player":"Zylus","role":"innocent","timestamp":415.0057}],"initialRoles":[{"player":"Lewis","role":"innocent"},{"player":"Ben","role":"turncoat"},{"player":"Duncan","role":"traitor"},{"player":"Ravs","role":"swapper"},{"player":"Rythian","role":"parasite"},{"player":"Zylus","role":"innocent"},{"player":"Kirsty","role":"tracker"}],"winners":["traitor"],"startTimestamp":263.318309},{"actions":[{"playerA":"Ravs","action":"killed","playerB":"Zylus","timestamp":522.234038},{"playerA":"Ravs","action":"killed","playerB":"Kirsty","timestamp":525.503746},{"playerA":"Ravs","action":"zombiefied","playerB":"Kirsty","timestamp":537.959388},{"playerA":"Ravs","action":"zombiefied","playerB":"Zylus","timestamp":542.049117},{"playerA":"Ravs","action":"killed","playerB":"Lewis","timestamp":554.519512},{"playerA":"Kirsty","action":"killed","playerB":"Duncan","timestamp":560.743658},{"playerA":"Kirsty","action":"killed","playerB":"Ben","timestamp":577.94703},{"playerA":"Ben","action":"killed","playerB":"Rythian","timestamp":592.6563829313354}],"roleChanges":[{"player":"Kirsty","role":"zombie","timestamp":537.959388},{"player":"Zylus","role":"zombie","timestamp":542.049117},{"player":"Duncan","role":"zombie","timestamp":563.437574},{"player":"Ben","role":"zombie","timestamp":580.966696}],"initialRoles":[{"player":"Lewis","role":"innocent"},{"player":"Ben","role":"innocent"},{"player":"Duncan","role":"innocent"},{"player":"Ravs","role":"mad scientist"},{"player":"Rythian","role":"veteran"},{"player":"Zylus","role":"parasite"},{"player":"Kirsty","role":"traitor"}],"winners":["zombie"],"startTimestamp":457.603798},{"actions":[{"playerA":"Rythian","action":"killed","playerB":"Ben","timestamp":647.708008},{"playerA":"Rythian","action":"killed","playerB":"Ravs","timestamp":682.504945}],"roleChanges":[],"initialRoles":[{"player":"Lewis","role":"innocent"},{"player":"Ben","role":"traitor"},{"player":"Duncan","role":"innocent"},{"player":"Ravs","role":"jester"},{"player":"Rythian","role":"paladin"},{"player":"Zylus","role":"informant"},{"player":"Kirsty","role":"innocent"}],"winners":["jester"],"startTimestamp":624.008993},{"actions":[{"playerA":"Ben","action":"killed","playerB":"Rythian","timestamp":750.265006},{"playerA":"Ravs","action":"killed","playerB":"Ben","timestamp":768.94461},{"playerA":"Ravs","action":"suicided","playerB":null,"timestamp":789.250526},{"playerA":"Lewis","action":"killed","playerB":"Kirsty","timestamp":812.849651}],"roleChanges":[],"initialRoles":[{"player":"Lewis","role":"innocent"},{"player":"Ben","role":"parasite"},{"player":"Duncan","role":"glitch"},{"player":"Ravs","role":"innocent"},{"player":"Rythian","role":"randoman"},{"player":"Zylus","role":"traitor"},{"player":"Kirsty","role":"jester"}],"winners":["jester"],"startTimestamp":718.109592},{"actions":[{"playerA":"Duncan","action":"killed","playerB":"Ben","timestamp":877.942336},{"playerA":"Kirsty","action":"died","playerB":null,"timestamp":914.192668},{"playerA":"Duncan","action":"killed","playerB":"Rythian","timestamp":915.681418},{"playerA":"Ravs","action":"killed","playerB":"Duncan","timestamp":928.889626},{"playerA":"Zylus","action":"died","playerB":null,"timestamp":931.811209},{"playerA":"Lewis","action":"hypnotised","playerB":"Ben","timestamp":934.087646},{"playerA":"Ben","action":"died","playerB":null,"timestamp":941.568771},{"playerA":"Lewis","action":"ressurected","playerB":"Ben","timestamp":949.631978},{"playerA":"Ravs","action":"killed","playerB":"Ben","timestamp":987.809995},{"playerA":"Ravs","action":"killed","playerB":"Lewis","timestamp":1021.69689}],"roleChanges":[{"player":"Ben","role":"traitor","timestamp":934.087646}],"initialRoles":[{"player":"Lewis","role":"hypnotist"},{"player":"Ben","role":"tracker"},{"player":"Duncan","role":"traitor"},{"player":"Ravs","role":"veteran"},{"player":"Rythian","role":"randoman"},{"player":"Zylus","role":"jester"},{"player":"Kirsty","role":"innocent"}],"winners":["innocent"],"startTimestamp":846.710557}],"videoId":"GBrckzwMvTQ"}
+{
+    "videoTitle": "Curse of the FOREVER SWAPPER! | Gmod TTT",
+    "players": [
+        {
+            "name": "Lewis"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Ravs"
+        },
+        {
+            "name": "Rythian"
+        },
+        {
+            "name": "Zylus"
+        },
+        {
+            "name": "Kirsty"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 103.544688
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 139.839041
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 152.216145
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 170.43847691607667
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "used admin buff on",
+                    "playerB": "Ben",
+                    "timestamp": 197.63383202479554
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 216.993562
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 216.993562
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 216.993562
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 216.993562
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 229.668874
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Rythian",
+                    "role": "swapper",
+                    "timestamp": 216.993562
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor",
+                    "timestamp": 216.993562
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "impersonator"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "turncoat"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "swapper"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 28.600419
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Lewis",
+                    "action": "suicided",
+                    "playerB": null,
+                    "timestamp": 310.401722
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 368.960541
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 374.475457
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 375.973287
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 390.647103
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 408.366832
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 411.615872
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 415.005601
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 417.642684
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 417.642684
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 421.496038
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Zylus",
+                    "role": "swapper",
+                    "timestamp": 368.960541
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent",
+                    "timestamp": 368.960541
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper",
+                    "timestamp": 368.9606
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent",
+                    "timestamp": 368.9606
+                },
+                {
+                    "player": "Zylus",
+                    "role": "swapper",
+                    "timestamp": 390.647103
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent",
+                    "timestamp": 390.6472
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent",
+                    "timestamp": 390.647103
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper",
+                    "timestamp": 390.6472
+                },
+                {
+                    "player": "Zylus",
+                    "role": "swapper",
+                    "timestamp": 408.366832
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent",
+                    "timestamp": 408.366832
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent",
+                    "timestamp": 408.8128
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper",
+                    "timestamp": 408.8128
+                },
+                {
+                    "player": "Zylus",
+                    "role": "swapper",
+                    "timestamp": 411.615872
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent",
+                    "timestamp": 411.615872
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent",
+                    "timestamp": 411.6159
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper",
+                    "timestamp": 411.6159
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent",
+                    "timestamp": 415.005601
+                },
+                {
+                    "player": "Zylus",
+                    "role": "swapper",
+                    "timestamp": 415.005601
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper",
+                    "timestamp": 415.0057
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent",
+                    "timestamp": 415.0057
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "turncoat"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "tracker"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 263.318309
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 522.234038
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 525.503746
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "zombiefied",
+                    "playerB": "Kirsty",
+                    "timestamp": 537.959388
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "zombiefied",
+                    "playerB": "Zylus",
+                    "timestamp": 542.049117
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 554.519512
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 560.743658
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 577.94703
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 592.6563829313354
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Kirsty",
+                    "role": "zombie",
+                    "timestamp": 537.959388
+                },
+                {
+                    "player": "Zylus",
+                    "role": "zombie",
+                    "timestamp": 542.049117
+                },
+                {
+                    "player": "Duncan",
+                    "role": "zombie",
+                    "timestamp": 563.437574
+                },
+                {
+                    "player": "Ben",
+                    "role": "zombie",
+                    "timestamp": 580.966696
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "mad scientist"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "zombie"
+            ],
+            "startTimestamp": 457.603798
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 647.708008
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 682.504945
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "jester"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "informant"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "jester"
+            ],
+            "startTimestamp": 624.008993
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 750.265006
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 768.94461
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "suicided",
+                    "playerB": null,
+                    "timestamp": 789.250526
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 812.849651
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "jester"
+                }
+            ],
+            "winners": [
+                "jester"
+            ],
+            "startTimestamp": 718.109592
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 877.942336
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 914.192668
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 915.681418
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 928.889626
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 931.811209
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "hypnotised",
+                    "playerB": "Ben",
+                    "timestamp": 934.087646
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 941.568771
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "ressurected",
+                    "playerB": "Ben",
+                    "timestamp": 949.631978
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 987.809995
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 1021.69689
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Ben",
+                    "role": "traitor",
+                    "timestamp": 934.087646
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "hypnotist"
+                },
+                {
+                    "player": "Ben",
+                    "role": "tracker"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "jester"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 846.710557
+        }
+    ],
+    "videoId": "GBrckzwMvTQ"
+}

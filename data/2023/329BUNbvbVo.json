@@ -1,1 +1,439 @@
-{"videoTitle":"Would YOU execute Ravs? | Gmod TTT","players":[{"name":"Lewis"},{"name":"Ben"},{"name":"Duncan"},{"name":"Ravs"},{"name":"Rythian"},{"name":"Zoey"},{"name":"Osie"},{"name":"Kirsty"}],"rounds":[{"actions":[{"playerA":"Ben","action":"admin teleported","playerB":"Ben","timestamp":30.843022},{"playerA":"Ravs","action":"died","playerB":null,"timestamp":64.756595},{"playerA":"Rythian","action":"killed","playerB":"Kirsty","timestamp":126.427178},{"playerA":"Ben","action":"died","playerB":null,"timestamp":247.925935},{"playerA":"Duncan","action":"died","playerB":null,"timestamp":247.925935},{"playerA":"Lewis","action":"admin teleported","playerB":"Zoey","timestamp":287.240997043869},{"playerA":"Lewis","action":"admin teleported","playerB":"Rythian","timestamp":315.347726}],"roleChanges":[{"player":"Zoey","role":"traitor","timestamp":317.015663}],"initialRoles":[{"player":"Lewis","role":"spectator"},{"player":"Ben","role":"clown"},{"player":"Duncan","role":"innocent"},{"player":"Ravs","role":"innocent"},{"player":"Rythian","role":"traitor"},{"player":"Zoey","role":"turncoat"},{"player":"Osie","role":"summoner"},{"player":"Kirsty","role":"paladin"}],"winners":["traitor"],"startTimestamp":0},{"actions":[{"playerA":"Zoey","action":"killed","playerB":"Duncan","timestamp":406.721958},{"playerA":"Zoey","action":"died","playerB":null,"timestamp":422.789478},{"playerA":"Kirsty","action":"killed","playerB":"Ravs","timestamp":438.206333},{"playerA":"Rythian","action":"killed","playerB":"Kirsty","timestamp":442.875686}],"roleChanges":[],"initialRoles":[{"player":"Lewis","role":"glitch"},{"player":"Ben","role":"innocent"},{"player":"Duncan","role":"summoner"},{"player":"Ravs","role":"innocent"},{"player":"Rythian","role":"paladin"},{"player":"Zoey","role":"mad scientist"},{"player":"Osie","role":"jester"},{"player":"Kirsty","role":"traitor"}],"winners":["innocent"],"startTimestamp":347.53031192370605},{"actions":[{"playerA":"Zoey","action":"died","playerB":null,"timestamp":481.063748},{"playerA":"Osie","action":"killed","playerB":"Kirsty","timestamp":532.586915},{"playerA":"Ravs","action":"died","playerB":null,"timestamp":550.622767},{"playerA":"Lewis","action":"used admin buff on","playerB":"Ravs","timestamp":581.247203},{"playerA":"Ravs","action":"respawned","playerB":null,"timestamp":581.247203},{"playerA":"Lewis","action":"killed","playerB":"Duncan","timestamp":594.434995}],"roleChanges":[{"player":"Duncan","role":"parasite","timestamp":532.586915}],"initialRoles":[{"player":"Lewis","role":"veteran"},{"player":"Ben","role":"innocent"},{"player":"Duncan","role":"drunk"},{"player":"Ravs","role":"swapper"},{"player":"Rythian","role":"innocent"},{"player":"Zoey","role":"summoner"},{"player":"Osie","role":"randoman"},{"player":"Kirsty","role":"traitor"}],"winners":["innocent"],"startTimestamp":478.052352},{"actions":[{"playerA":"Lewis","action":"killed","playerB":"Duncan","timestamp":657.533869},{"playerA":"Ravs","action":"died","playerB":null,"timestamp":683.8437699599457},{"playerA":"Lewis","action":"killed","playerB":"Ben","timestamp":695.300937},{"playerA":"Rythian","action":"killed","playerB":"Lewis","timestamp":700.444457},{"playerA":"Rythian","action":"killed","playerB":"Kirsty","timestamp":703.735436}],"roleChanges":[],"initialRoles":[{"player":"Lewis","role":"parasite"},{"player":"Ben","role":"drunk"},{"player":"Duncan","role":"paladin"},{"player":"Ravs","role":"innocent"},{"player":"Rythian","role":"glitch"},{"player":"Zoey","role":"innocent"},{"player":"Osie","role":"traitor"},{"player":"Kirsty","role":"clown"}],"winners":[],"startTimestamp":630.7504578550415},{"actions":[{"playerA":"Duncan","action":"killed","playerB":"Kirsty","timestamp":849.358891},{"playerA":"Duncan","action":"killed","playerB":"Ben","timestamp":898.614495},{"playerA":"Osie","action":"killed","playerB":"Duncan","timestamp":904.285536},{"playerA":"Osie","action":"died","playerB":null,"timestamp":926.98839},{"playerA":"Zoey","action":"killed","playerB":"Lewis","timestamp":990.139389},{"playerA":"Rythian","action":"killed","playerB":"Zoey","timestamp":1003.660472},{"playerA":"Ravs","action":"killed","playerB":"Rythian","timestamp":1021.645805}],"roleChanges":[{"player":"Lewis","role":"innocent","timestamp":725.931185},{"player":"Ben","role":"innocent","timestamp":725.931185},{"player":"Duncan","role":"innocent","timestamp":725.931185},{"player":"Ravs","role":"innocent","timestamp":725.931185},{"player":"Rythian","role":"innocent","timestamp":725.931185},{"player":"Zoey","role":"innocent","timestamp":725.931185},{"player":"Osie","role":"innocent","timestamp":725.931185},{"player":"Kirsty","role":"innocent","timestamp":725.931185}],"initialRoles":[],"winners":["Ravs"],"startTimestamp":716.0797690362397}],"videoId":"329BUNbvbVo"}
+{
+    "videoTitle": "Would YOU execute Ravs? | Gmod TTT",
+    "players": [
+        {
+            "name": "Lewis"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Ravs"
+        },
+        {
+            "name": "Rythian"
+        },
+        {
+            "name": "Zoey"
+        },
+        {
+            "name": "Osie"
+        },
+        {
+            "name": "Kirsty"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Ben",
+                    "action": "admin teleported",
+                    "playerB": "Ben",
+                    "timestamp": 30.843022
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 64.756595
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 126.427178
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 247.925935
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 247.925935
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "admin teleported",
+                    "playerB": "Zoey",
+                    "timestamp": 287.240997043869
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "admin teleported",
+                    "playerB": "Rythian",
+                    "timestamp": 315.347726
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Zoey",
+                    "role": "traitor",
+                    "timestamp": 317.015663
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "spectator"
+                },
+                {
+                    "player": "Ben",
+                    "role": "clown"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zoey",
+                    "role": "turncoat"
+                },
+                {
+                    "player": "Osie",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "paladin"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 0
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Zoey",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 406.721958
+                },
+                {
+                    "playerA": "Zoey",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 422.789478
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 438.206333
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 442.875686
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Zoey",
+                    "role": "mad scientist"
+                },
+                {
+                    "player": "Osie",
+                    "role": "jester"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 347.53031192370605
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Zoey",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 481.063748
+                },
+                {
+                    "playerA": "Osie",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 532.586915
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 550.622767
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "used admin buff on",
+                    "playerB": "Ravs",
+                    "timestamp": 581.247203
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 581.247203
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 594.434995
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Duncan",
+                    "role": "parasite",
+                    "timestamp": 532.586915
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "drunk"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "swapper"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zoey",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Osie",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 478.052352
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 657.533869
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 683.8437699599457
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 695.300937
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 700.444457
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 703.735436
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Ben",
+                    "role": "drunk"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Zoey",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Osie",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "clown"
+                }
+            ],
+            "winners": [],
+            "startTimestamp": 630.7504578550415
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 849.358891
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 898.614495
+                },
+                {
+                    "playerA": "Osie",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 904.285536
+                },
+                {
+                    "playerA": "Osie",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 926.98839
+                },
+                {
+                    "playerA": "Zoey",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 990.139389
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Zoey",
+                    "timestamp": 1003.660472
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 1021.645805
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Rythian",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Zoey",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Osie",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "innocent",
+                    "timestamp": 725.931185
+                }
+            ],
+            "initialRoles": [],
+            "winners": [
+                "Ravs"
+            ],
+            "startTimestamp": 716.0797690362397
+        }
+    ],
+    "videoId": "329BUNbvbVo"
+}
