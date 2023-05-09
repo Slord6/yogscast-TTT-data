@@ -45,13 +45,16 @@ These are recorded as several events with the same timestamp.
 
 The goal is to have data on every TTT video from 3rd Oct 2017, which is when the [name list](https://yogs-ttt.fandom.com/wiki/Name_List) was first introduced. This makes definitively working out who is which roles and when offscreen deaths occur much easier.
 
+The following totals are estimates based off the [wiki](https://yogs-ttt.fandom.com/wiki) masterlist pages for each year (see 'Useful Links' below).
+
 Year        |   Total Videos    |  Data Collected
 -------     |   ------------    |   -------------
 2023        |       34          |       9
-2022        |       0           |       0
-2021        |       0           |       0
-2019        |       0           |       0
-2018        |       0           |       0
+2022        |       98          |       0
+2021        |       134         |       0
+2020        |       141         |       0
+2019        |       198         |       0
+2018        |       164         |       0
 2017 (Oct+) |       34          |       4
 
 ## Useful Links
@@ -64,3 +67,7 @@ Video masterlists:
 - [2019](https://yogs-ttt.fandom.com/wiki/2019_Episode_Masterlist)
 - [2018](https://yogs-ttt.fandom.com/wiki/2018_Episode_Masterlist)
 - [2017, Oct](https://yogs-ttt.fandom.com/wiki/2017_Episode_Masterlist?so=search#October)
+
+## Licence Notes
+
+As this project builds off the work done on the TTT [wiki](https://yogs-ttt.fandom.com/wiki), which is distributed under a `Creative Commons Attribution-Share Alike License 3.0`, and in the spirit of sharing, the data in this repository is shared under the [compatible](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses/) `Creative Commons Attribution Share Alike 4.0 International` licence. A summary of the licence can be found [here](https://choosealicense.com/licenses/cc-by-sa-4.0/), and the full licence in `LICENSE.md`.
