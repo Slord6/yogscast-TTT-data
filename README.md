@@ -26,6 +26,8 @@ Depending on the number of rounds in, and the length of, a video cataloguing all
 
 ## Contribute
 
+Follow the instructions in [events.md](events.md)
+
 ### New Data
 
 - Create an issue for a set of videos
@@ -65,45 +67,6 @@ Data in each file:
         - Soulmates
         - Admin-power use
     - Who won the round
-
-### Suicide vs Death vs Kill
-
-This is mostly decided based on intention. If the player meant to cause themselves harm, even if the end goal was not to die (like in early Jester plays where players would try to lower their health and sometime die in the process), then the death is recorded as a suicide. Otherwise, the death is simply recorded as a normal death, or a kill if instigated by another player. The only exception to this is 'barrel justice' which is recorded separately.
-
-
-### '\<player> died offscreen earlier'
-
-This event indicates that it has become apparent that a player died earlier in the round (eg a cut to them in spectator cam occurs), but it is impossible to tell when they died.
-
-### Zombie kills
-
-These are recorded as several sequential events.
-
-First timestamp:
-- ZombieA killed B
-- B died
-
-Second timestamp:
-- B role change to zombie
-- B respawned
-
-### Swapper kills
-
-These were recorded as several events with the same timestamp:
-
-- A killed B
-- B respawned
-- A role change to swapper
-- B role change to A's previous role
-
-But now are recorded as a 'swapped with' event.
-
-### Possible extensions
-
-The following data points are currently untracked but could be useful to add in the future.
-
-- Cause of death
-- Active randomats
 
 ## Useful Links
 
