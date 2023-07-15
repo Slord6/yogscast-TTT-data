@@ -1,0 +1,317 @@
+{
+    "videoTitle": "WHERE MY COWBOYS AT? | Gmod TTT",
+    "players": [
+        {
+            "name": "Harry"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Sjin"
+        },
+        {
+            "name": "Tom"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Rythian"
+        },
+        {
+            "name": "Zylus"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 57.50754
+                },
+                {
+                    "playerA": "Sjin",
+                    "action": "killed",
+                    "playerB": "Tom",
+                    "timestamp": 181.726562
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 199.5673733333332
+                },
+                {
+                    "playerA": "Sjin",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 217.693872
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 248.223933
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Sjin",
+                    "timestamp": 286.120891
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Harry",
+                    "role": "jester"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "survivalist"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Tom",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "detective"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 30.769833072479248
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 370.106533
+                },
+                {
+                    "playerA": "Harry",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 381.4604280000003
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Harry",
+                    "role": "survivalist"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "jester"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "detective"
+                },
+                {
+                    "player": "Tom",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 311.6180748722076
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Harry",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 469.451906
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 500.223821
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "golden gunned",
+                    "playerB": "Sjin",
+                    "timestamp": 601.043633
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 601.043633
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Sjin",
+                    "timestamp": 601.043633
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Harry",
+                    "timestamp": 621.288916
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 630.420019
+                },
+                {
+                    "playerA": "Tom",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 654.974894
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Harry",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "jester"
+                },
+                {
+                    "player": "Tom",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Ben",
+                    "role": "detective"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "survivalist"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 404.48842680926515
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Harry",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 748.407164
+                },
+                {
+                    "playerA": "Sjin",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 773.80933
+                },
+                {
+                    "playerA": "Tom",
+                    "action": "ressurected",
+                    "playerB": "Harry",
+                    "timestamp": 779.631309
+                },
+                {
+                    "playerA": "Sjin",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 792.287912
+                },
+                {
+                    "playerA": "Sjin",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 851.855912
+                },
+                {
+                    "playerA": "Harry",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 852.786182
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Harry",
+                    "role": "detective"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Tom",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Ben",
+                    "role": "survivalist"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "jester"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 680.0071848512268
+        }
+    ],
+    "videoId": "BOLYtFiVZZs"
+}
