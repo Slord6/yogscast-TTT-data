@@ -338,7 +338,9 @@
                     "role": "clown"
                 }
             ],
-            "winners": [],
+            "winners": [
+                "innocent"
+            ],
             "startTimestamp": 630.7504578550415
         },
         {
