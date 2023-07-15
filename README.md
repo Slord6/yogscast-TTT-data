@@ -19,8 +19,8 @@ Year        |   Total Videos    |  Data Collected
 2020        |       141         |       0
 2019        |       198         |       0
 2018        |       164         |       0
-2017 (Oct+) |       34          |       4
-Total       |       803         |       13 (~1.6%)
+2017 (Oct+) |       34          |       8
+Total       |       803         |       17 (~2.1%)
 
 Depending on the number of rounds in, and the length of, a video cataloguing all events takes roughly 45-60 minutes. So to fully catalogue all required videos is ~33 days of work without breaks.
 
@@ -52,6 +52,11 @@ Data in each file:
 ### Suicide vs Death vs Kill
 
 This is mostly decided based on intention. If the player meant to cause themselves harm, even if the end goal was not to die (like in early Jester plays where players would try to lower their health and sometime die in the process), then the death is recorded as a suicide. Otherwise, the death is simply recorded as a normal death, or a kill if instigated by another player. The only exception to this is 'barrel justice' which is recorded separately.
+
+
+### '\<player> died offscreen earlier'
+
+This event indicates that it has become apparent that a player died earlier in the round (eg a cut to them in spectator cam occurs), but it is impossible to tell when they died.
 
 ### Zombie kills
 
