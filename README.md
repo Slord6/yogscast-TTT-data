@@ -3,7 +3,7 @@ Data created from Yogscast TTT Rounds
 
 ## Repo Structure
 
-`data/<year>/<videoID>.json`
+`data/<videoID>.json`
 
 ## Progress
 
@@ -19,10 +19,27 @@ Year        |   Total Videos    |  Data Collected
 2020        |       141         |       0
 2019        |       198         |       0
 2018        |       164         |       0
-2017 (Oct+) |       34          |       8
-Total       |       803         |       17 (~2.1%)
+2017 (Oct+) |       34          |       11
+Total       |       803         |       20 (~2.5%)
 
 Depending on the number of rounds in, and the length of, a video cataloguing all events takes roughly 45-60 minutes. So to fully catalogue all required videos is ~33 days of work without breaks.
+
+## Contribute
+
+### New Data
+
+- Create an issue for a set of videos
+- Create a new branch
+- [Create](https://samlord.co.uk/tools/ttt) the data
+- Open a pull request with your changes
+
+### Updating/Creating Old Data
+
+- Open an issue
+    - Detail what you think needs changing
+    - (Optionally) Wait for feedback
+- [Edit](https://samlord.co.uk/tools/ttt) the data
+- Open a pull request with your changes
 
 ## Data
 
@@ -72,12 +89,14 @@ Second timestamp:
 
 ### Swapper kills
 
-These are recorded as several events with the same timestamp.
+These were recorded as several events with the same timestamp:
 
 - A killed B
 - B respawned
 - A role change to swapper
 - B role change to A's previous role
+
+But now are recorded as a 'swapped with' event.
 
 ### Possible extensions
 
