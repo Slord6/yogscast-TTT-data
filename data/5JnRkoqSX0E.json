@@ -85,7 +85,7 @@
                 },
                 {
                     "playerA": "Duncan",
-                    "action": "ressurected",
+                    "action": "resurrected",
                     "playerB": "Lewis",
                     "timestamp": 145.174207
                 },
@@ -331,7 +331,7 @@
                 },
                 {
                     "playerA": "Lewis",
-                    "action": "ressurected",
+                    "action": "resurrected",
                     "playerB": "Zylus",
                     "timestamp": 586.693507
                 },
@@ -592,7 +592,7 @@
                 },
                 {
                     "playerA": "Duncan",
-                    "action": "ressurected",
+                    "action": "resurrected",
                     "playerB": "Lewis",
                     "timestamp": 1116.688471
                 },
