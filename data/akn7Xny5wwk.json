@@ -266,14 +266,8 @@
                 },
                 {
                     "playerA": "Ben",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Pedguin",
-                    "timestamp": 716.344854
-                },
-                {
-                    "playerA": "Pedguin",
-                    "action": "respawned",
-                    "playerB": null,
                     "timestamp": 716.344854
                 },
                 {
@@ -302,26 +296,14 @@
                 },
                 {
                     "playerA": "Lewis",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Ben",
                     "timestamp": 935.511604
                 },
                 {
-                    "playerA": "Ben",
-                    "action": "respawned",
-                    "playerB": null,
-                    "timestamp": 935.511604
-                },
-                {
                     "playerA": "Pedguin",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Lewis",
-                    "timestamp": 960.927311
-                },
-                {
-                    "playerA": "Lewis",
-                    "action": "respawned",
-                    "playerB": null,
                     "timestamp": 960.927311
                 },
                 {
