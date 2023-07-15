@@ -57,27 +57,9 @@
                     "timestamp": 197.63383202479554
                 },
                 {
-                    "playerA": "Rythian",
-                    "action": "killed",
-                    "playerB": "Zylus",
-                    "timestamp": 216.993562
-                },
-                {
-                    "playerA": "Rythian",
-                    "action": "died",
-                    "playerB": null,
-                    "timestamp": 216.993562
-                },
-                {
                     "playerA": "Zylus",
-                    "action": "respawned",
-                    "playerB": null,
-                    "timestamp": 216.993562
-                },
-                {
-                    "playerA": "Rythian",
-                    "action": "respawned",
-                    "playerB": null,
+                    "action": "swapped with",
+                    "playerB": "Rythian",
                     "timestamp": 216.993562
                 },
                 {
@@ -162,27 +144,51 @@
                 },
                 {
                     "playerA": "Zylus",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Ravs",
                     "timestamp": 390.647103
                 },
                 {
+                    "playerA": "Ravs",
+                    "action": "swapped with",
+                    "playerB": "Zylus",
+                    "timestamp": 390.6472
+                },
+                {
                     "playerA": "Zylus",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Ravs",
                     "timestamp": 408.366832
                 },
                 {
+                    "playerA": "Ravs",
+                    "action": "swapped with",
+                    "playerB": "Zylus",
+                    "timestamp": 408.8128
+                },
+                {
                     "playerA": "Zylus",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Ravs",
                     "timestamp": 411.615872
                 },
                 {
+                    "playerA": "Ravs",
+                    "action": "swapped with",
+                    "playerB": "Zylus",
+                    "timestamp": 411.6159
+                },
+                {
                     "playerA": "Zylus",
-                    "action": "killed",
+                    "action": "swapped with",
                     "playerB": "Ravs",
                     "timestamp": 415.005601
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "swapped with",
+                    "playerB": "Zylus",
+                    "timestamp": 415.0057
                 },
                 {
                     "playerA": "Rythian",
