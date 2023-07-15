@@ -19,8 +19,8 @@ Year        |   Total Videos    |  Data Collected
 2020        |       141         |       0
 2019        |       198         |       0
 2018        |       164         |       0
-2017 (Oct+) |       34          |       8
-Total       |       803         |       17 (~2.1%)
+2017 (Oct+) |       34          |       11
+Total       |       803         |       20 (~2.5%)
 
 Depending on the number of rounds in, and the length of, a video cataloguing all events takes roughly 45-60 minutes. So to fully catalogue all required videos is ~33 days of work without breaks.
 
