@@ -17,5 +17,5 @@ assignees: ''
 
 ## Check
 
-- [ ] All videos catalogued and added to correct year folder
+- [ ] All videos catalogued
 - [ ] Readme data table updated
