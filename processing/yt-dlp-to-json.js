@@ -36,7 +36,8 @@ parsed.videos.forEach(entry => {
                     return split.length > 6 ? null : names;
                   })
                   .filter(x => x != null)
-                  .flat();
+                  .flat()
+                  .filter(x => x != "");
     entry.players = names;
   } else {
     entry.players = null;
