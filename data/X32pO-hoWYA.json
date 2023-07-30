@@ -1,0 +1,530 @@
+{
+    "videoTitle": "BACK TO THE FUTURE | Gmod TTT",
+    "players": [
+        {
+            "name": "Lewis"
+        },
+        {
+            "name": "Sjin"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Sips"
+        },
+        {
+            "name": "Pyrion"
+        },
+        {
+            "name": "Rythian"
+        },
+        {
+            "name": "Zylus"
+        },
+        {
+            "name": "Ben"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 102.87930300000001
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 106.496537
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "handcuffed",
+                    "playerB": "Duncan",
+                    "timestamp": 145.0090466666666
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 161.3000036666666
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Sjin",
+                    "timestamp": 177.6771383333333
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 185.57247366666664
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Sips",
+                    "role": "detective"
+                },
+                {
+                    "player": "Pyrion",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "unknown"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 10.865937085830689
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 217.628956
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 217.628956
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 221.6153823333332
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Sips",
+                    "timestamp": 223.29691766666667
+                },
+                {
+                    "playerA": "Pyrion",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 228.89118
+                },
+                {
+                    "playerA": "Pyrion",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 304.476444
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "unknown (non-traitor)"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Sips",
+                    "role": "survivalist"
+                },
+                {
+                    "player": "Pyrion",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "detective"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 192.1895561144409
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Pyrion",
+                    "timestamp": 320.4510566666667
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "killed",
+                    "playerB": "Pyrion",
+                    "timestamp": 369.064514
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 371.131305
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Sips",
+                    "timestamp": 397.4189296666667
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 400.866429
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 401.13
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 434.3656006666668
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 457.003172
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "detective"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Sips",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Pyrion",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 308.50779805722044
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Sips",
+                    "action": "handcuffed",
+                    "playerB": "Ben",
+                    "timestamp": 518.247484
+                },
+                {
+                    "playerA": "Sjin",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 527.7559833333335
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 529.9471880000001
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 540.6416756666666
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 542.322316
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Pyrion",
+                    "timestamp": 567.9218986666667
+                },
+                {
+                    "playerA": "Sips",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 572
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Sips",
+                    "timestamp": 579.205005
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "unknown"
+                },
+                {
+                    "player": "Sips",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Pyrion",
+                    "role": "unknown"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "detective"
+                },
+                {
+                    "player": "Ben",
+                    "role": "unknown"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 475.41392187030027
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Sips",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 630.800179
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Pyrion",
+                    "timestamp": 649.509366
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Sjin",
+                    "timestamp": 649.509366
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 649.509366
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Sips",
+                    "timestamp": 658.473725
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "resurrected",
+                    "playerB": "Sips",
+                    "timestamp": 692.769282
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 709.2341986666667
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "phoenix"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "unknown (non-traitor)"
+                },
+                {
+                    "player": "Sips",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Pyrion",
+                    "role": "detective"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "unknown (non-traitor)"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "startTimestamp": 589.492238
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Sips",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 749.2058510023842
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Pyrion",
+                    "timestamp": 785.9896576666665
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 817.9033443333334
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 847.902869
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 855.614843
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "survivalist"
+                },
+                {
+                    "player": "Sjin",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Sips",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Pyrion",
+                    "role": "detective"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "startTimestamp": 734.1295559670982
+        }
+    ],
+    "videoId": "X32pO-hoWYA"
+}
