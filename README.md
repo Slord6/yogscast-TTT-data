@@ -11,16 +11,16 @@ The goal is to have data on every TTT video from 3rd Oct 2017, which is when the
 
 The following totals are estimates based off the [wiki](https://yogs-ttt.fandom.com/wiki) masterlist pages for each year (see 'Useful Links' below).
 
-Year        |   Total Videos    |  Data Collected
--------     |   ------------    |   -------------
-2023        |       34          |       9
-2022        |       98          |       0
-2021        |       134         |       0
-2020        |       141         |       0
-2019        |       198         |       0
-2018        |       164         |       0
-2017 (Oct+) |       34          |       11
-Total       |       803         |       20 (~2.5%)
+Year        |   Total Videos
+-------     |   ------------
+2023        |       34      
+2022        |       98      
+2021        |       134     
+2020        |       141     
+2019        |       198     
+2018        |       164     
+2017 (Oct+) |       34      
+Total       |       803     
 
 Depending on the number of rounds in, and the length of, a video cataloguing all events takes roughly 45-60 minutes. So to fully catalogue all required videos is ~33 days of work without breaks.
 

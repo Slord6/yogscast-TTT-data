@@ -6,7 +6,7 @@ There is a tool available to generate and view the data [here](https://samlord.c
 
 ### How
 
-- Find a video you wish to log the events for on YouTube and copy/paste the URL (or just the video ID) into the `Load Video` text box in the tool, and click the button.
+- Find a video you wish to log the events for on YouTube and copy/paste the URL (or just the video ID) into the `Load Video` text box in the tool, and click the button. You can also select a date from the calendar and then select a video from that month to load.
     - If a video has already been processed and it's data merged into the repo, the tool will load the data from this repository when the video loads.
     - If the video has not been processed, then you will have to start from a blank file
     - To load local data, paste it into the `Import` text box and click the button. The video will be loaded automatically.
@@ -17,10 +17,17 @@ There is a tool available to generate and view the data [here](https://samlord.c
 - As the round progresses:
     - Fill out the initial roles, as they are revealed. When all starting roles have been filled out click `Set Initial Roles`
     - Add actions and role changes as they occur. These are timestamped using the video playhead position.
-- When the round ends, record (all) the winning side(s). Then, create a new round and repeat until the video ends.
-- Finally, click `Export` and copy the JSON text into a file named `<videoId>.json` in the `data` folder.
+    - Record any Time Jumps (see below)
+- When the round ends, record the winning side(s). Then, create a new round and repeat until the video ends.
+- Finally, click `Export`. A file should download named `\<videoid\>.json`. This can be added to the repo.
 
 For an example of a complete processed video try loading `329BUNbvbVo`.
+
+## Time Jumps
+
+Some rounds have small cuts in them. You should always record these cuts using the 'Time Jumps' input.
+
+Any events that occur within the cut portion of video should be added between the `Start` and `End` timestamps of the jump. These will be flagged as being in the cut in the round summary on the right.
 
 ## More complex events
 
