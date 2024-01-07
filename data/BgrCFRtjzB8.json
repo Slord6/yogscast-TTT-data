@@ -1,0 +1,311 @@
+{
+    "videoTitle": "What we want from Gmod TTT in 2024",
+    "players": [
+        {
+            "name": "Lewis"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Rythian"
+        },
+        {
+            "name": "Zylus"
+        },
+        {
+            "name": "Kirsty"
+        },
+        {
+            "name": "Osie"
+        },
+        {
+            "name": "Briony"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Rythian",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 278.37815933333314
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Osie",
+                    "timestamp": 331.515179
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 398.5071476666666
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 421.92442666666653
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "jester"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "impersonator"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Osie",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Briony",
+                    "role": "loot goblin"
+                }
+            ],
+            "winners": [
+                "traitor",
+                "loot goblin"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 0
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Rythian",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 515.151876
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Osie",
+                    "timestamp": 660.2939070000003
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 671.0895083333337
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 721.315363
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 723.2334463333335
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 729.1674043333335
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "mad scientist"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Osie",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Briony",
+                    "role": "clown"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 455.098572082016
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 845.752027
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 858.4081513333335
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 879.824451
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 883.1417216666667
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 891.6576793333337
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Duncan",
+                    "role": "traitor",
+                    "timestamp": 879.824451
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "medium"
+                },
+                {
+                    "player": "Ben",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "drunk"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Osie",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Briony",
+                    "role": "mad scientist"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 765.4636390648499
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 1005.5417116666669
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "jester"
+                },
+                {
+                    "player": "Ben",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "mad scientist"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Osie",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Briony",
+                    "role": "traitor"
+                }
+            ],
+            "winners": [
+                "jester"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 923.9230329828339
+        }
+    ],
+    "videoId": "BgrCFRtjzB8"
+}
