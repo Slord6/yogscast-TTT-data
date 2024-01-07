@@ -69,6 +69,10 @@ When a player uses a device to bring another player back from the dead record a 
 
 Simply record a `swapped with` - the death and respawn of each person is implied and should not be added as separate events.
 
+### Guesser swaps
+
+Record an `x guess-swapped with y` event. Do not add any swapped events, they're implied, and would be at the same timestamp.
+
 ### Golden gun kills
 
 Record both the `golden gunned` action and the outcome on the same timestamp. This is required as a golden gun can result in the shooter, shootee or both dying.
