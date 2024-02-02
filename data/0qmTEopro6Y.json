@@ -1,0 +1,584 @@
+{
+    "videoTitle": "Even more roles mean even weirder bugs! | Gmod TTT",
+    "players": [
+        {
+            "name": "Lewis"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Rythian"
+        },
+        {
+            "name": "Zylus"
+        },
+        {
+            "name": "Nilesy"
+        },
+        {
+            "name": "Kirsty"
+        },
+        {
+            "name": "Briony"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 64.67252866666666
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "hivemind recruited",
+                    "playerB": "Kirsty",
+                    "timestamp": 70.91948566666667
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "hivemind recruited",
+                    "playerB": "Duncan",
+                    "timestamp": 88.944611
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "hivemind recruited",
+                    "playerB": "Lewis",
+                    "timestamp": 94.14009
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "hivemind recruited",
+                    "playerB": "Nilesy",
+                    "timestamp": 102.142152
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "hivemind recruited",
+                    "playerB": "Briony",
+                    "timestamp": 111.5671096666667
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "hivemind recruited",
+                    "playerB": "Ben",
+                    "timestamp": 152.93304733333304
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "drunk"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "hivemind"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "hypnotist"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "medium"
+                },
+                {
+                    "player": "Briony",
+                    "role": "veteran"
+                }
+            ],
+            "winners": [
+                "hivemind"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 7.100769898910523
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Nilesy",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 218.857706
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 221.7929373333332
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 222.860478
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 222.860478
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 307.294705
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "jester"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "medium"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "clown"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "vindicator"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Briony",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "jester"
+            ],
+            "timeJumps": [
+                {
+                    "preJump": 220.32543233333308,
+                    "postJump": 220.34209899999976,
+                    "timeMissed": "2"
+                }
+            ],
+            "startTimestamp": 185.9408749847412
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Ben",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 404.79448333333363
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 422.074108
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 441.9813566666668
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 454.9874396666671
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Zylus",
+                    "role": "traitor",
+                    "timestamp": 432.702211
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "clown"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "beggar"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "vindicator"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Briony",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 341.0750058072009
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 528.579124
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 576.274269
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "zombiefied",
+                    "playerB": "Briony",
+                    "timestamp": 587.151060000001
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 594.9781640000002
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 600.9290996666667
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "hivemind recruited",
+                    "playerB": "Zylus",
+                    "timestamp": 603.612704
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 608.6332870000001
+                },
+                {
+                    "playerA": "Nilesy",
+                    "action": "killed",
+                    "playerB": "Rythian",
+                    "timestamp": 608.6332870000001
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 612.1365566666667
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "spy"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "vindicator"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "hivemind"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "mad scientist"
+                },
+                {
+                    "player": "Briony",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 490.6633749465942
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 739.3719270000006
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 751.893885
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 754.4092803333334
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 823.5766336666668
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 831.4658213333337
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 871.4503833333334
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "informant"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "randoman"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "guesser"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "deputy"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "hivemind"
+                },
+                {
+                    "player": "Briony",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 647.8903059198914
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 940.3355470000001
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 942.4514826666668
+                },
+                {
+                    "playerA": "Nilesy",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 947.6937953333335
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "guess-swapped with",
+                    "playerB": "Zylus",
+                    "timestamp": 958.2508986666668
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 972.9501683333337
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "zombiefied",
+                    "playerB": "Briony",
+                    "timestamp": 993.6097510743866
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 1003.5416463333336
+                },
+                {
+                    "playerA": "Briony",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 1022.2573333333336
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "respawned",
+                    "playerB": null,
+                    "timestamp": 1025.576062
+                },
+                {
+                    "playerA": "Rythian",
+                    "action": "killed",
+                    "playerB": "Briony",
+                    "timestamp": 1052.860874
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "guess-swapped with",
+                    "playerB": "Lewis",
+                    "timestamp": 1054.9676863333336
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "zombiefied",
+                    "playerB": "Nilesy",
+                    "timestamp": 1078.322811
+                },
+                {
+                    "playerA": "Kirsty",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 1080.967206666667
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Kirsty",
+                    "timestamp": 1089.903936
+                }
+            ],
+            "roleChanges": [
+                {
+                    "player": "Duncan",
+                    "role": "zombie",
+                    "timestamp": 1025.576062
+                }
+            ],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "mad scientist"
+                },
+                {
+                    "player": "Ben",
+                    "role": "guesser"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "spy"
+                },
+                {
+                    "player": "Rythian",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "vindicator"
+                },
+                {
+                    "player": "Kirsty",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Briony",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "zombie"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 906.8373190934601
+        }
+    ],
+    "videoId": "0qmTEopro6Y"
+}
