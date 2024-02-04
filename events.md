@@ -81,9 +81,14 @@ Record an `x guess-swapped with y` event. Do not add any swapped events, they're
 
 Record both the `golden gunned` action and the outcome on the same timestamp. This is required as a golden gun can result in the shooter, shootee or both dying.
 
+### Summoner kills/Paper+Snail planes
+
+These are recorded simply as 'x died', because it is often very difficult or impossible to determine the killer in some cases.
+
 ## Future Data
 
 The following data points are currently untracked but could be useful to add in the future:
 
 - Cause of death (weapon, falling etc)
 - Active randomats (`x activated randomat y`, `randomat z started`)
+- Map names
