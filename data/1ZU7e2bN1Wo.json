@@ -1,0 +1,514 @@
+{
+    "videoTitle": "New server, new roles, new EVERYTHING in Gmod TTT!",
+    "players": [
+        {
+            "name": "Lewis"
+        },
+        {
+            "name": "Ben"
+        },
+        {
+            "name": "Duncan"
+        },
+        {
+            "name": "Ravs"
+        },
+        {
+            "name": "Zylus"
+        },
+        {
+            "name": "Nilesy"
+        },
+        {
+            "name": "Boba"
+        }
+    ],
+    "rounds": [
+        {
+            "actions": [
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 249.581066
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 274.348836
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Boba",
+                    "timestamp": 286.335856
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 289.506543
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Ben",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "clown"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Boba",
+                    "role": "deputy"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 17.42037492752075
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 353.468541
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Boba",
+                    "timestamp": 376.220999
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 376.220999
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Boba",
+                    "timestamp": 376.220999
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 381.094706
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 402.27703866666667
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "swapper"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "medium"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "spy"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Boba",
+                    "role": "deputy"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 321.1461879217987
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Zylus",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 494.64874418310546
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 497.5927226666667
+                },
+                {
+                    "playerA": "Nilesy",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 503.4519103333337
+                },
+                {
+                    "playerA": "Boba",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 544.347595
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "announcer"
+                },
+                {
+                    "player": "Ben",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "glitch"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "faker"
+                },
+                {
+                    "player": "Boba",
+                    "role": "innocent"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 436.28103710871886
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Nilesy",
+                    "action": "guess-swapped with",
+                    "playerB": "Ben",
+                    "timestamp": 644.856999
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 667.030374
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 675.727144
+                },
+                {
+                    "playerA": "Nilesy",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 707.7019143333334
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 711.808309
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "announcer"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "guesser"
+                },
+                {
+                    "player": "Boba",
+                    "role": "glitch"
+                }
+            ],
+            "winners": [
+                "innocent",
+                "innocent"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 571.9651350133514
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Nilesy",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 770.871496
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 778.761225
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 872.109954
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "killed",
+                    "playerB": "Boba",
+                    "timestamp": 887.761099
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 892.574661
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "faker"
+                },
+                {
+                    "player": "Ben",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "announcer"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Boba",
+                    "role": "glitch"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 736.9260801926422
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Nilesy",
+                    "timestamp": 949.1501993333335
+                },
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Duncan",
+                    "timestamp": 1002.746989
+                },
+                {
+                    "playerA": "Zylus",
+                    "action": "killed",
+                    "playerB": "Boba",
+                    "timestamp": 1059.668425
+                },
+                {
+                    "playerA": "Ben",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 1062.3100696666668
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Ben",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "faker"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "mercenary"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "traitor"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "summoner"
+                },
+                {
+                    "player": "Boba",
+                    "role": "announcer"
+                }
+            ],
+            "winners": [
+                "innocent"
+            ],
+            "timeJumps": [
+                {
+                    "preJump": 922.903514,
+                    "postJump": 922.9201806666666,
+                    "timeMissed": "41"
+                }
+            ],
+            "startTimestamp": 922.903514
+        },
+        {
+            "actions": [
+                {
+                    "playerA": "Lewis",
+                    "action": "killed",
+                    "playerB": "Ben",
+                    "timestamp": 1141.429194
+                },
+                {
+                    "playerA": "Duncan",
+                    "action": "died",
+                    "playerB": null,
+                    "timestamp": 1144.718006
+                },
+                {
+                    "playerA": "Ravs",
+                    "action": "killed",
+                    "playerB": "Lewis",
+                    "timestamp": 1160.863047
+                },
+                {
+                    "playerA": "Nilesy",
+                    "action": "killed",
+                    "playerB": "Zylus",
+                    "timestamp": 1172.356359
+                },
+                {
+                    "playerA": "Nilesy",
+                    "action": "killed",
+                    "playerB": "Ravs",
+                    "timestamp": 1176.725066
+                }
+            ],
+            "roleChanges": [],
+            "initialRoles": [
+                {
+                    "player": "Lewis",
+                    "role": "unknown"
+                },
+                {
+                    "player": "Ben",
+                    "role": "veteran"
+                },
+                {
+                    "player": "Duncan",
+                    "role": "paladin"
+                },
+                {
+                    "player": "Ravs",
+                    "role": "innocent"
+                },
+                {
+                    "player": "Zylus",
+                    "role": "deputy"
+                },
+                {
+                    "player": "Nilesy",
+                    "role": "parasite"
+                },
+                {
+                    "player": "Boba",
+                    "role": "unknown"
+                }
+            ],
+            "winners": [
+                "traitor"
+            ],
+            "timeJumps": [],
+            "startTimestamp": 1090.0563188989106
+        }
+    ],
+    "videoId": "1ZU7e2bN1Wo"
+}
